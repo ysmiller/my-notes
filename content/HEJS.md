@@ -1,5 +1,5 @@
 ---
-title: HEJS1
+title: HEJS3330 Online Resources
 draft: false
 tags:
 ---
