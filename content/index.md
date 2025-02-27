@@ -14,4 +14,4 @@ Right now I'm finishing up an article about texts that portray the biblical Elij
 
 ## 🎒 Current Teaching
 
-This semester I'm teaching a course entitled "Palestine Under Greeks and Romans," and I hope to post regular content relating to the class. In the meantime, my first Quartz page is [a list of digital resources](obsidian://open?vault=my-notes&file=content%2FHello%20World) for students in this class. 
+This semester I'm teaching a course entitled "Palestine Under Greeks and Romans," and I hope to post regular content relating to the class. In the meantime, my first Quartz page is a list of digital resources for students in this class. 

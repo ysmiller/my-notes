@@ -1,7 +1,8 @@
 ---
 title: HEJS3330 Online Resources
 draft: false
-tags:
+tags: 
+aliases:
 ---
 **General Reference**
 
