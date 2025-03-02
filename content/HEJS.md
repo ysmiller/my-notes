@@ -4,13 +4,13 @@ draft: false
 tags: 
 aliases:
 ---
-**General Reference**
+##### **General Reference**
 
 [_Encyclopaedia Judaica_](https://guides.lib.uconn.edu/encyclopediajudaica) @ 
 
 [Oxford Dictionary of the Jewish Religion](https://uconn-storrs.primo.exlibrisgroup.com/permalink/01UCT_STORRS/1s3ubib/alma9933779453502432) @
 
-**Ancient Reference**
+##### **Ancient Reference**
 
 _T&T Clark Encyclopedia of Second Temple Judaism_, [vol. 1](http://s.uconn.edu/estj1); [vol. 2](http://s.uconn.edu/estj2) @ ++
 
@@ -20,13 +20,13 @@ _T&T Clark Encyclopedia of Second Temple Judaism_, [vol. 1](http://s.uconn.edu/e
 
 [Madain Project](https://madainproject.com/)
 
-**Timeline**
+##### **Timeline**
 
 [Timeline of Second Temple Judaism](https://www.bibleodyssey.org/timeline-gallery/second-temple-judaism/) ++
 
 [Timeline of Greco-Roman Literature](https://dubioushistory.github.io/timelines/greco-roman)
 
-**Images and Maps**
+##### **Images and Maps**
 
 [Palestine from the Persian Period to Post Bar Kochba](https://data1.geo.univie.ac.at/projects/muenzeundmacht/maps/map4%3Flanguage=en.html)
 
@@ -38,7 +38,7 @@ _T&T Clark Encyclopedia of Second Temple Judaism_, [vol. 1](http://s.uconn.edu/e
 
 [Digital Atlas of the Jewish World in Antiquity 586 BC - 640 AD](https://diaspora.haifa.ac.il/index.php/en/maps)
 
-**Documents and Inscriptions**
+##### **Documents and Inscriptions**
 
 [The Context of Scripture](https://archive.org/details/the-context-of-scripture/mode/2up) (Brill, 3 vols.)
 
@@ -50,19 +50,19 @@ Corpus Papyrorum Judaicarum, [vol. 1](https://archive.org/details/corpuspapyror
 
 [The Elephantine Papyri](https://elephantine.smb.museum/?lang=en) (ERC Project)
 
-**Artifacts**
+##### **Artifacts**
 
 [IAA - National Treasures](https://www.antiquities.org.il/t/PeriodsList_en.aspx) (by period and type) ++
 
 [Biblical Archeology Review](https://library-biblicalarchaeology-org.ezproxy.lib.uconn.edu/) @
 
-**Coins**
+##### **Coins**
 
 [The Menorah Coin Project](https://www.menorahcoinproject.com/)
 
 [The Beginning of Jewish Coinage](https://data1.geo.univie.ac.at/projects/muenzeundmacht/showcases/showcase1%3Flanguage=en.html)
 
-**Futher Readings**
+##### **Futher Readings**
 
 Kessler and Koltun-Fromm, eds., [_A Companion to Late Ancient Jews and Judaism_](https://onlinelibrary-wiley-com.ezproxy.lib.uconn.edu/doi/book/10.1002/9781119113843) @
 
@@ -72,7 +72,7 @@ Elias Bickerman, [_From Ezra To The Last Of The Maccabees_](https://archive.org
 
 [Compendia Rerum Iudaicarum ad Novum Testamentum](https://brill-com.ezproxy.lib.uconn.edu/display/serial/CRI) @
 
-**Related Readings**
+##### **Related Readings**
 
 Bezalel Porten, [_The Elephantine Papyri in English_](https://archive.org/details/the-elephantine-papyri-in-english_202105)
 
@@ -80,6 +80,6 @@ Bezalel Porten, [_The Elephantine Papyri in English_](https://archive.org/detail
 
 [ETANA: Electronic Tools and Ancient Near East Archives](https://etana.org/home)
 
-**Library Titles**
+##### **Library Titles**
 
 Kevin Butcher, _Roman Syria and the Near East_
