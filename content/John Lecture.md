@@ -1,9 +1,0 @@
----
-title: John Lecture
----
-The use of computers by 1963 reached a milestone where humans created 1 zettabyte (ZB) of data.   I am not a computer scientist, but a zettabyte is like a kajillion – which is a very scientific term.  It’s really really big.   By 1993 – thirty years later – humans produced 100 ZB.   The number jumped enormously by 2013, with the advent and widespread adoption of social media and the emergence of extremely inexpensive storage.   At that point, nearly 4000 ZB was created in one year.    Human consumption of data went from 1 ZB to 4000 ZB in 50 years.   In the ten years since our data production has taken off.    The number has now increased to at least 175,000 ZB in 2023. 
-
-These numbers are kind of insane and perhaps not very meaningful except in the context of their exponential rise.   Information has become a defining part of our lives – we live in the information age.   
-
-This is somewhat misleading for us, of course.   It is the reliance on video and photography that is most responsible for this hunger for data and storage.   However, we can still see similar changes in our information landscape in how we engage with each other.    We do use images, but also posts, texts, retweets and forwards that pass along information at a spectacular pace.   I am no longer surprised when someone sends me an article they haven’t read and amongst this blizzard of information I hope they are not surprised when I don’t read it either.   
-There are also snakes in the grass.  People are more likely to click or our spread interesting disinformation over boring truths.
